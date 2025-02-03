@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util/build" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_android/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_android/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_brightness_util_windows/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
