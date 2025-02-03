@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   screen_brightness_util_platform_interface: ^0.0.2
-  screen_brightness_util_android: ^0.0.2
+  screen_brightness_util_android:
+    path: screen_brightness_util_android
   screen_brightness_util_ios: ^0.0.2
   screen_brightness_util_windows: ^0.0.2
 
